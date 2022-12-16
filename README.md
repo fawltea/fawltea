@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fawltea
-- 👀 I’m interested in devops and game development
-- 🌱 I’m currently learning Terraform and Godot
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning some weird AWS stuff
 - 📫 How to reach me hello@jakestocker.com
 
 <!---
